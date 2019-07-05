@@ -1,0 +1,1 @@
+Scaffold-DbContext –Connection "Data Source=BEYONCE;Initial Catalog=Sail;Integrated Security=True" -Provider "Microsoft.EntityFrameworkCore.SqlServer" -OutputDir "Models" –Context "SailContext" –Verbose -Force
